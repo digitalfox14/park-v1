@@ -26,7 +26,7 @@
 <body>
     <div id="wrapper">
         @include('layouts.sidebar')
-        <div id="page-wrapper" class="gray-bg" style="min-height: 127px;">
+        <div id="page-wrapper" class="gray-bg" style="min-height: 1376px;">
             @include('layouts.navbar')
             @yield('content')
         </div>
