@@ -1,6 +1,5 @@
 @extends('layouts.app')
 @section('content')
-
 <div class="row wrapper border-bottom white-bg page-heading">
     <div class="col-sm-4">
         <h2>This is main title</h2>
